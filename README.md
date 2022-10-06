@@ -27,3 +27,21 @@ A vista em dinheiro ou cheque, recebe 10% de desconto;
 A vista no cartão de crédito, recebe 15% de desconto;
 Em duas vezes, preço normal de etiqueta sem juros;
 Em duas vezes, preço normal de etiqueta mais juros de 10%.
+
+exe10. Crie um algoritmo que leia um número e verifique se esse valor é positivo, negativo ou igual a zero. A saída deve ser: "Valor Positivo", "Valor Negativo" ou "Igual a Zero".
+
+exe11. Faça um algoritmo em PHP onde verifica-se que o valor da variável A é maior ou menor que o valor da variável B. A mensagem a ser impressa deve ser “A maior que B” ou “A menor que B”.
+
+exe12. Faça um algoritmo em PHP que dados dois valores A e B, apresente o resultado das 4 operações básicas da matemática: 
+soma, subtração, divisão e multiplicação.
+
+exe13. Escreva um algoritmo que leia três números nas variáveis Val1, Val2 e Val3, calcule sua média na variável media e exiba para o usuário o resultado. A média de de val1, val2 e val3, é a soma das três variáveis dividido pela quantidade que aqui é 3.
+
+exe14. Faça um cadastro de aluno utilizando array associativo com as seguintes informações de aluno:
+● Nome completo;
+● Matrícula;
+● CPF;
+● Endereço;
+● Semestre;
+● Data de nascimento.
+As informações devem ser formatadas conforme o exemplo 13.
