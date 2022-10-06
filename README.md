@@ -44,41 +44,52 @@ exe14. Faça um cadastro de aluno utilizando array associativo com as seguintes 
 ● Endereço;
 ● Semestre;
 ● Data de nascimento.
-As informações devem ser formatadas conforme o exemplo 13.
 
 exe15. Faça as seguintes verificações em estruturas if:
 *5 é maior que 2 ?
 Matheus é diferente de Pedro ?
 12 é menor ou igual a 11 ?
 Você deve inserir os valores em variaveis;
-<br>
-<br>
 
-<?php
+exe16. Faça as seguintes verificações em estruturas if:
+Crie uma variavel que receba uma idade
+Cheque se a idade é maior ou igual a 18;
+Se sim, imprima uma mensagem que a pessoa é maior de idade.
 
-$num1 = 5;
-$num2 = 2;
-$num3 = 11;
-$num4 = 14;
-$a = "Matheus";
-$b = "Pedro";
+exe17. Crie 3 variaveis com tipos de dados diferentes: string, int e boolean;
+cheque se a variável é um inteiro;
+*Caso verdade, apresente a mensagem confirmando;
+*Caso falso, apresente uma mensagem informando quea variavel não é um inteiro.
 
+exe18. Crie uma variavel que receba um peso;
+Caso seja maior que 80, imprima a mensagem está acima do peso;
+Do contrário, imprima peso dentro do limite.
 
-if ($num1 > $num2) {
-    echo "$num1 é maior que $num2 - condição verdadeira<br>";
-} else {
-    echo "condição falsa<br>";
-}
+exe.19 Crie variaveis com numeros e outras com string;
+faça uma if checando se é um numero;
+Caso seja, atribua a multiplicação deste numero por 2 numa variavel chamada resultado;
+crie um outro if, que checa se resultado é maior que 100:
+Se verdade, imprima uma mensagem de notificação informado que é maior ou igual a 100;
+se falso, imprima uma mensagem de notificação informando que é inferior a 100;
 
-if ($a != $b) {
-    echo "$a é diferente de $b - Condição verdadeira<br>";
-} else {
-    echo "Condição falsa<br>";
-}
+exe20.
+● Crie uma variável que recebe uma velocidade de um carro
+● Depois crie uma estrutura if que verifica esse velocidade;
+○ Se a velocidade for menor que 40, imprima que o motorista está na
+velocidade correta;
+○ Se igual a 40, imprima uma mensagem para o motorista tomar
+cuidado;
+○ Se for maior de 40, imprima uma mensagem de multa.
 
-if ($num3 <= $num4) {
-    echo "$num3 é menor ou igual a $num4 - condição verdade<br>";
-} else {
-    echo "condição falsa<br>";
-}
-?>
+exe21.
+Reescreva o exemplo acima, para que a condição de parada seja verificada na
+expressão do while. Ou seja, no momento que o valor de um elemento no vetor for
+menor que 0, o laço de repetição será finalizado.
+
+exe22.
+Crie um array com pelo menos 10 itens, de tipo de dados diferentes e faça um laço
+de repetição utilizando while para exibir apenas os dados que são strings.
+Dica: use a função is_string($variavel) para saber se o conteúdo de $variavel é
+uma string.
+
+funcao1. Exercicio de somar, diminuir, subtrair, multiplicar usando funções.
