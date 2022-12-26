@@ -1,5 +1,5 @@
 # exercicios-php
-Exercícios básicos de PHP
+Exercícios básicos em PHP
 
 exe1. Faça um programa em PHP que leia os valores A, B, C e imprima na tela se a soma de A + B e menor que C.
 
@@ -92,4 +92,4 @@ de repetição utilizando while para exibir apenas os dados que são strings.
 Dica: use a função is_string($variavel) para saber se o conteúdo de $variavel é
 uma string.
 
-funcao1. Exercicio de somar, diminuir, subtrair, multiplicar usando funções.
+Funcao1. Exercicio de somar, diminuir, subtrair, multiplicar usando funções.
